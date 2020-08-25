@@ -1,5 +1,5 @@
 {
-  "name": "archiver-cli",
+  "name": "@zhouzi/archiver-cli",
   "version": "0.1.0",
   "description": "a command line interface for archiverjs",
   "homepage": "https://github.com/archiverjs/archiver-cli",
